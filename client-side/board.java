@@ -1,4 +1,6 @@
-
+//Author: Andrei Ghenoiu
+//Fall 2011 Networks class
+//if you have any questions contact me at andrei_stefang@yahoo.com
 
 
 public class board {
