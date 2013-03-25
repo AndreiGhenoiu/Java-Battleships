@@ -1,5 +1,5 @@
 //Author: Andrei Ghenoiu
-//Fall 2011 Networks class
+//Fall 2011 Networks class Vermont Technical College
 //if you have any questions contact me at andrei_stefang@yahoo.com
 
 
